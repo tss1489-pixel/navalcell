@@ -1,13 +1,10 @@
 import React from "react";
-import ReactDOM from "react-dom/client";
-import App from "./App.jsx";
+import ReactDOM from "react-dom/
+client";
 
-const root = ReactDOM.createRoot(
-  document.getElementById("root")
-);
-
-root.render(
+ReactDOM.createRoot(document.getElem 
+entById("root")).render(
   <React.StrictMode>
-    <App />
+    <h1>Navalcell</h1>
   </React.StrictMode>
 );
