@@ -1,8 +1,8 @@
 export default function App() {
   return (
-    <div style={{ padding: 24, fontFamily: "system-ui" }}>
-      <h1>Navalcell no ar</h1>
-      <p>Frontend React (Vite) funcionando.</p>
+    <div style={{ padding: 20 }}>
+      <h1>Célula Naval</h1>
+      <p>Assistência técnica especializada em celulares.</p>
     </div>
   );
 }
