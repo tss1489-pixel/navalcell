@@ -1,8 +1,9 @@
 export default function App() {
   return (
-    <div style={{ padding: 20 }}>
-      <h1>Célula Naval</h1>
-      <p>Assistência técnica em celulares</p>
+    <div style={{ fontFamily: 
+"Arial", padding: 24 }}>
+      <h1>Navalcell no ar</h1>
+      <p>Render funcionando.</p>
     </div>
   );
 }
