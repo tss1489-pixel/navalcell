@@ -1,11 +1,8 @@
 import React from "react";
-import ReactDOM from "react-dom/
-client";
+import ReactDOM from "react-dom/client";
 
-ReactDOM.createRoot(document.
-  getElem 
-entById("root")).render(
+ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <h1>Navalcell</h1>
+    <h1>Navalcell no ar 🚀</h1>
   </React.StrictMode>
 );
