@@ -1,9 +1,13 @@
 export default function App() {
   return (
-    <div style={{ fontFamily: 
-"Arial", padding: 24 }}>
-      <h1>Navalcell no ar</h1>
-      <p>Render funcionando.</p>
+    <div style={{
+      minHeight: "100vh",
+      display: "flex",
+      alignItems: "center",
+      justifyContent: "center",
+      fontFamily: "Arial"
+    }}>
+      <h1>🚀 Navalcell está no ar</h1>
     </div>
   );
 }
